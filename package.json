@@ -11,6 +11,7 @@
   "files": [
     "dist"
   ],
+  "type": "module",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
   },
